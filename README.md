@@ -1,4 +1,4 @@
-Resolução de exercício cadastro - 2022/11/10
+Resolução de exercício cadastro 
 
 
 https://gcasalunga.github.io/Cadastro/
