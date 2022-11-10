@@ -1,0 +1,16 @@
+body{
+    background-color: pink;
+}
+label{
+    display: flex;
+    justify-content: center;
+}
+
+form{
+    border: 10px solid black;
+    padding: 50px;
+    margin: 10% auto;
+    display: flex;
+    flex-flow: column;
+    width: 300px;
+}
